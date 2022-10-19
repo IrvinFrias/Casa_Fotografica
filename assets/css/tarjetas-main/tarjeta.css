@@ -1,0 +1,29 @@
+.tarjeta{
+    background: #fdfdfd;
+    width: calc(33.33% - 1rem);
+    padding-bottom: 3rem;
+    border-radius: 10px;
+    margin-bottom: 3rem;
+}
+.tarjeta:hover{
+    box-shadow: 1px 1px 10px #333333;
+}
+@media only screen and (max-width: 600px) {
+    .tarjeta{
+        width: 100%
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {}

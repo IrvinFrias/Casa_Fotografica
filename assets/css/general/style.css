@@ -1,0 +1,9 @@
+*{
+    font-family: obliqua,sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.contenido__principal{
+    background: #f1f1f1;
+    margin: 0 auto;
+}

@@ -1,0 +1,10 @@
+.footer1__boton{
+    background: #d98629;
+    text-align: center;
+    margin: 0 auto;
+    padding: 8px;
+    width: 25%;
+}
+.footer1__boton:hover{
+    background: #f1f1f1;
+}

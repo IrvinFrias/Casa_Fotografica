@@ -1,0 +1,32 @@
+.banner__titulo{
+    color: #fdfdfd;
+    font-family: Pacifico, cursive;
+
+    position: absolute; /*posicion absoluta dentro del div*/
+    left: 50%;
+    top: 50%;
+    text-align: center;
+    text-shadow: 0 4px 4px rgba(0,0,0,0.75);
+    width: 100%;
+    transform: translate(-50%, -50%); /*Investigar*/
+    font-size: 4rem;
+
+}
+@media only screen and (max-width: 600px) {
+    .banner__titulo{
+        font-size: 2rem;
+
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {}

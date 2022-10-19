@@ -1,0 +1,10 @@
+.footer1__direccionContacto--link{
+    color: darkorange;
+    text-decoration: none;
+
+}
+.footer1__direccionContacto--link:hover{
+    color: cornflowerblue;
+    text-decoration: none;
+
+}
